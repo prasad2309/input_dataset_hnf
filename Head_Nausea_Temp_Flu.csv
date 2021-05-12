@@ -1,0 +1,9 @@
+﻿Headache,Nausea,Temperature,Flu
+yes,no,high,yes
+yes,yes,very high,yes
+no,no,high,no
+yes,yes,high,yes
+yes,yes,high,no
+yes,no,normal,no
+no,yes,normal,no
+yes,no,normal,yes
